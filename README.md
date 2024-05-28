@@ -7,3 +7,5 @@
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am a motorcycle rider than has never ridden a bike before. I also make resin RPG dice
+
+[![Gabby Ward's github stats](https://github-readme-stats.vercel.app/api?username=GabbyWard&theme=dark)](https://github.com/{{USERNAME}}/github-readme-stats)
